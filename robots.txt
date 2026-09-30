@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Ayato-Yamazaki.github.io/Ayato-Advisory/sitemap.xml
